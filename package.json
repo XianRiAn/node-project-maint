@@ -2,9 +2,9 @@
   "name": "arespack",
   "version": "1.0.0",
   "description": "hello..",
-  "homepage": "https://github.com/XianRiAn/Node-Project#readme",
+  "homepage": "https://github.com/XianRiAn/node-project-maint#readme",
   "bugs": {
-    "url": "https://github.com/XianRiAn/Node-Project/issues"
+    "url": "https://github.com/XianRiAn/node-project-maint/issues"
   },
   "repository": {
     "type": "git",
@@ -14,12 +14,6 @@
   "author": "Ares",
   "type": "commonjs",
   "main": "app.js",
-  "scripts": {
-    "build": "npm install",
-    "start": "node app.js",
-    "test": "echo \"Running tests...\" && exit 0",
-    "dev": "nodemon app.js"
-  },
   "dependencies": {
     "ejs": "^3.1.10",
     "express": "^5.2.1",
